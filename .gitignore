@@ -1,1 +1,4 @@
-.envgit 
+*.env
+
+# ignore ALL .log files
+*.log
